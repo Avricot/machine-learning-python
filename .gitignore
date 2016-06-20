@@ -1,0 +1,9 @@
+python3
+.idea/
+.ipynb_checkpoints/
+*.iml
+build
+dist
+env_ml
+ml.egg-info
+
